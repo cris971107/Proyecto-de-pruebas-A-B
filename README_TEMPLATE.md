@@ -116,6 +116,8 @@ Statistical Confidence: The p-value decreased slightly during the final stages o
 
 `visuals/Captura de pantalla 2026-03-03 234335.png`
 
+<img width="1237" height="347" alt="Captura de pantalla 2026-03-04 000520" src="https://github.com/user-attachments/assets/099547b0-04fa-453f-9509-09ed71cd0560" />
+
 ---
 
 
@@ -124,6 +126,8 @@ Statistical Confidence: The p-value decreased slightly during the final stages o
 | Deliverable | Description | Location |
 |-------------|-------------|----------|
 | Code | Jupyter Notebook containing EDA, Funnel Visualizations, and Z-test results. | `notebooks/Sprint-15S-2.ipynb` |
+
+<img width="1013" height="541" alt="Captura de pantalla 2026-03-03 234335" src="https://github.com/user-attachments/assets/2779e75f-c676-41e7-954f-43ae299933a9" />
 
 
 ---
