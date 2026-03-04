@@ -146,10 +146,9 @@ Action: It is strongly recommended not to deploy the new recommendation system. 
 ## 8. Author
 
 **Cristian Barrientos**
-Your role or title - current or target
 
-- 🔗 [LinkedIn URL](https://www.linkedin.com/in/cristian-barrientos-pomposo/)
-- 💼 [Portfolio or GitHub profile URL](https://github.com/cris971107)
+- 🔗 [https://www.linkedin.com/in/cristian-barrientos-pomposo/](https://www.linkedin.com/in/cristian-barrientos-pomposo/)
+- 💼 [https://github.com/cris971107](https://github.com/cris971107)
 - 📧 cristian971107@hotmail.com
 
 
