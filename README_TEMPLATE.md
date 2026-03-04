@@ -19,7 +19,7 @@ Analyzed the performance of a new recommendation engine through an A/B test to d
 1. [Project Overview](#1-project-overview)
 2. [Objectives](#2-objectives)
 3. [Repository Structure](#3-repository-structure)
-4. [Data Processing & Methodology](#4-data-drocessing-&-methodology)
+4. [Data Processing & Methodology](#4-data-drocessing-and-methodology)
 5. [Key Insights](#5-key-insights)
 6. [Deliverables](#6-deliverables)
 7. [Final Verdict & Recommendations](#8-final_recomendations)
@@ -64,7 +64,7 @@ Clean and process raw interaction data to ensure metrics such as total event sum
 
 ---
 
-## 4. Data Processing & Methodology
+## 4. Data processing and methodology
 
 The analysis utilized a refined dataset, referred to in the code as res_clean, which aggregated user interactions.
 
