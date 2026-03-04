@@ -19,10 +19,10 @@ Analyzed the performance of a new recommendation engine through an A/B test to d
 1. [Project Overview](#1-project-overview)
 2. [Objectives](#2-objectives)
 3. [Repository Structure](#3-repository-structure)
-4. [Data Processing & Methodology](#4-analysis--metrics)
+4. [Data Processing & Methodology](#4-data-drocessing-&-methodology)
 5. [Key Insights](#5-key-insights)
 6. [Deliverables](#6-deliverables)
-7. [Final Verdict & Recommendations](#8-Final_recomendations)
+7. [Final Verdict & Recommendations](#8-final_recomendations)
 8. [Author](#7-author)
 
 ---
