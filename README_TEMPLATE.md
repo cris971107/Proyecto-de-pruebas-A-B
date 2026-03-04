@@ -53,9 +53,8 @@ Clean and process raw interaction data to ensure metrics such as total event sum
 │
 ├── notebooks/                # Jupyter, R Markdown, or Colab notebooks
 │
-├── visuals/                  # Exported charts, dashboard screenshots, ERD diagrams
-│
-└── docs/                     # Data dictionaries, schema notes, reference material
+└── visuals/                  # Exported charts, dashboard screenshots, ERD diagrams
+
 
 ```
 
