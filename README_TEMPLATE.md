@@ -84,7 +84,7 @@ visuals/Captura de pantalla 2026-03-04 000520.png
 
 ---
 
-## 5. Key Insights
+## 5. Key insights
 
 <!--
   Findings + implications. Not just what happened - what it means.
@@ -122,7 +122,7 @@ Statistical Confidence: The p-value decreased slightly during the final stages o
 
 ---
 
-## 7. Final Verdict & Recommendations
+## 7. Final verdict and recommendations
 
 Result: The A/B test is considered a failure in terms of optimization.
 
