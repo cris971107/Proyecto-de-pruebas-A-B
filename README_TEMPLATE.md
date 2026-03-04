@@ -44,6 +44,8 @@ Utilize hypothesis testing (z-tests) to determine if observed differences are st
 Secondary Objective 2:
 Clean and process raw interaction data to ensure metrics such as total event sums and counts are accurate for final evaluation.
 
+---
+
 ## 3. Repository Structure
 
 ```
