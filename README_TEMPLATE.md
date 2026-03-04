@@ -81,7 +81,7 @@ Funnel analysis (Login -> Product Page -> Cart -> Purchase).
 
 Z-test for independent proportions (Alpha = 0.05).
 
-`visuals/Captura de pantalla 2026-03-04 000520.png`
+visuals/Captura de pantalla 2026-03-04 000520.png
 
 
 ## 5. Key Insights
