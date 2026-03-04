@@ -49,8 +49,7 @@ Clean and process raw interaction data to ensure metrics such as total event sum
 ```
 [project-root]/
 │
-├── data/
-│   └── raw/                  # Original, unmodified source data - never edited
+├── docs/                     # Original, unmodified source data - never edited
 │
 ├── notebooks/                # Jupyter, R Markdown, or Colab notebooks
 │
