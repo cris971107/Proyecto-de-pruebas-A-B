@@ -95,6 +95,8 @@ Metric Definition: The core metrics focused on the total sum of events (sum) and
 
 Refinement Logic: Data was processed to eliminate outliers and ensure that only relevant events within the experimental window were included in the final z-test.
 
+`/path/to/file`
+
 
 ## 5. Key Insights
 
@@ -116,11 +118,11 @@ Refinement Logic: Data was processed to eliminate outliers and ensure that only 
   Aim for 3–6 insights. Quality over quantity.
 -->
 
-The evaluation revealed critical findings regarding the new recommendation system:
+The data revealed a clear trend regarding the experimental group:
 
-Negative Performance Impact: The evidence indicates that the new recommendation system actually worsened either the user experience or the overall purchase process.
+Performance Degradation: The new system did not just fail to improve metrics; it actively worsened the user experience or the efficiency of the purchase funnel.
 
-Increased Statistical Confidence: As the data cleaning process progressed, the calculated p-value decreased slightly. This lower p-value provides even stronger statistical evidence that the decline in performance was a direct result of the new system rather than a random fluctuation.
+Statistical Confidence: The p-value decreased slightly during the final stages of analysis. In statistical terms, a lower p-value strengthens the rejection of the null hypothesis, confirming that the negative impact observed was not a random fluke but a consistent result of the new system.
 
 `/path/to/file`
 
